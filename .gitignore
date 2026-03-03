@@ -1,0 +1,21 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# build outputs
+build/
+out/
+*.o
+*.a
+*.so
+*.exe
+
+# logs
+*.log
+
+# docker artifacts
+*.tar
