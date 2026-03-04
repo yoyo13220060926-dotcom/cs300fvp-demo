@@ -1,0 +1,11 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1453    1437    1437      23468  pty0      197611 20:28:02 /usr/bin/bash
+     1218    1217    1218      26468  pty0      197611 20:27:25 /usr/bin/bash
+     1477    1454    1454      26164  pty0      197611 20:28:03 /usr/bin/bash
+     1478    1477    1478      27416  pty0      197611 20:28:03 /usr/bin/bash
+     1437    1436    1437      22264  pty0      197611 20:28:01 /usr/bin/bash
+     1555    1478    1555      26220  pty0      197611 20:28:05 /c/Windows/system32/CMD
+     1436    1218    1218        696  pty0      197611 20:28:01 /usr/bin/bash
+     1217       1    1217       7460  ?         197611 20:27:25 /usr/bin/mintty
+     1560       1    1560      24196  cons0     197611 20:29:04 /usr/bin/ps
+     1454    1453    1454       8460  pty0      197611 20:28:02 /usr/bin/bash
