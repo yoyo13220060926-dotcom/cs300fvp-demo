@@ -1,5 +1,6 @@
 \# Corstone-300 FVP (CS300) Demo - YOLOv8 on Ethos-U55
 
+<img width="1919" height="1079" alt="螢幕擷取畫面 2026-03-08 170104" src="https://github.com/user-attachments/assets/4cc4c4d6-66bc-417d-8501-1459fd4c2e8e" />
 
 
 \## What I achieved
